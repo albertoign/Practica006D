@@ -1,7 +1,14 @@
 .ini{
+    background-color: black;
     padding-top: 0px;
     padding-left: 400px;
     padding-right: 750px;
     padding-bottom: 0px;
             
+}
+body{
+    background-color: lightgreen;
+    text-align: center;
+    list-style-position: inside;
+    
 }
